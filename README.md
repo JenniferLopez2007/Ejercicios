@@ -1,6 +1,6 @@
 Ejercicios para la convocatoria
 
-1.  Ejercicio 1 - Tabla del total personas en situación de pobreza matriculados en universidades públicas y privadas por región \
+1.  Ejercicio 1 - Tabla del total personas en situación de pobreza matriculadas en universidades públicas y privadas por región \
                   Código: Ejercicio_1.do \
                   Output: Ejercicio_1.xlsx \
                   Nota: El dofile genera y exporta la tabla a excel, el archivo .xlsx muestra el resultado sin alterar
